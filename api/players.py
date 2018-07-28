@@ -11,6 +11,7 @@ def get_player_details():
 
 
 def get_player_details_api():
+    # TODO: Find average card levels for players
     response = requests.get(API_URL + '/clans/' + CLAN_TAG + '/members', headers=HEADERS).json()
     player_details = {}
     for player in response['items']:

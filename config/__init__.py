@@ -12,3 +12,5 @@ HEADERS = {
 TRUSTED = ['#2YGJ8U0Q', '#YPY0LGVU', '#2P8UQY2YP', '#2RRRCUVC', '#202JJ9PPJ', '#P0RLVUYU', '#2LCCJQJLY', '#UR9GV2CR',
            '#RQUVJ2JL', '#YCL9UJR', '#20UUL8GCQ', '#VYQPL82Y', '#92G8YPRV', '#20RYP2GQP', '#8VUL0LLR9', '#9UQQCV8Q',
            '#22UPPC29U', '#YLVQUQYJ', '#PRPJCCQ9']
+
+# TODO: Create configuration for calculating rating
