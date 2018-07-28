@@ -1,6 +1,6 @@
 import requests
 
-from Config import *
+from config import *
 
 headers = {
     'authorization': API_TOKEN,
